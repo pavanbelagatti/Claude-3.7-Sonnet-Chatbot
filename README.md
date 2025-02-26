@@ -22,3 +22,6 @@ These features make it one of the best models today.
 
 The interesting thing is, Claude 3.7 Sonnet introduces Thinking Mode, which lets us see the model’s thought process. 
 Let's see Claude 3.7 Sonnet's performance and capabilities through a simple experiment. 
+
+### How to Run the Application?
+`streamlit run app.py`
